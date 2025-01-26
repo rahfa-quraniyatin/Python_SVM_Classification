@@ -12,3 +12,6 @@ The dataset used in this study is sourced from Kaggle.com. This dataset contains
 -
 -
 -
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email and LinkedIn:
+rahfaqurniya@gmail.com and www.linkedin.com/in/rahfaquraniyatin
