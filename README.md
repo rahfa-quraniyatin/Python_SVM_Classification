@@ -13,6 +13,13 @@ The study aims to to develop a reliable system for detecting stunting in toddler
 
 #### Result and Conclusion
 
+#### References
+1. https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting
+2. https://www.kaggle.com/datasets/rendiputra/stunting-balita-detection-121k-rows/data
+3. www.geeksforgeeks.org/support-vector-machine-algorithm
+4. Banurea, M., Hutagaol, D. B., & Sihombing, O. (2023). Klasifikasi Penyakit Stunting dengan Menggunakan Algoritma Support Vector Machine dan Random Forest. Jurnal Tekinkom (Teknik Informasi dan Komputer), 6(2), 540-549.
+5. Nugroho, A. F. F. (2024). Klasifikasi Stunting dan Status Gizi Balita dengan Metode SVM (Support Vector Machine). Skripsi
+
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email and LinkedIn:
 rahfaqurniya@gmail.com and www.linkedin.com/in/rahfaquraniyatin
