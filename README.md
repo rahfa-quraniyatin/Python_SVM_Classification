@@ -12,6 +12,10 @@ The dataset used in this study is sourced from Kaggle.com. This dataset contains
 The study aims to to develop a reliable system for detecting stunting in toddlers using Support Vector Machine (SVM) classification. By utilizing features such as age, gender, height, and nutritional status, the system aims to accurately classify toddlers into nutritional categories, enabling healthcare professionals to identify at-risk children and implement timely interventions to support their growth and development.
 
 #### Result and Conclusion
+1. The SVM model with optimized hyperparameters (**C=100, gamma=1, kernel='rbf'**) delivers **highly accurate results** for stunting detection in toddlers.  
+2. The model achieves **99% accuracy**, demonstrating its reliability in predicting stunting categories, including "severely stunted," "stunted," "normal," and "tall."  
+3. Precision, recall, and f1-scores of **0.99** for all categories highlight the model's **consistency and balance** in its predictions, with minimal classification errors across all labels.
+
 
 #### References
 1. https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting
