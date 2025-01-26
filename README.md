@@ -8,10 +8,10 @@ Stunting detection in toddlers is a critical aspect of early childhood health mo
 
 The dataset used in this study is sourced from Kaggle.com. This dataset contains detailed information relevant to stunting detection in toddlers, including variables such as age, gender, height, and nutritional status. You can access the dataset through the following link: https://www.kaggle.com/datasets/rendiputra/stunting-balita-detection-121k-rows/data 
 
-### Goal
-The goal of this study is to develop a reliable system for detecting stunting in toddlers using Support Vector Machine (SVM) classification. By utilizing features such as age, gender, height, and nutritional status, the system aims to accurately classify toddlers into nutritional categories, enabling healthcare professionals to identify at-risk children and implement timely interventions to support their growth and development.
+#### Goals
+The study aims to to develop a reliable system for detecting stunting in toddlers using Support Vector Machine (SVM) classification. By utilizing features such as age, gender, height, and nutritional status, the system aims to accurately classify toddlers into nutritional categories, enabling healthcare professionals to identify at-risk children and implement timely interventions to support their growth and development.
 
-### Result and Conclusion
+#### Result and Conclusion
 
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email and LinkedIn:
